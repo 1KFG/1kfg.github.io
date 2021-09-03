@@ -16,6 +16,12 @@
   link: https://www.protocols.io/view/removal-of-melanin-bj6zkrf6
   description: Protocols.io of melanin removal
 
+- name: Fungal CTAB DNA Extraction Protocol
+  group: featured
+  image: images/genomic_DNA_gel.jpg
+  link: https://www.protocols.io/view/fungal-ctab-dna-extraction-bhx8j7rw
+  description: Protocols.io of CTAB DNA extraction
+
 - name: KBase
   group: more
   image: images/k-base_logo.svg
