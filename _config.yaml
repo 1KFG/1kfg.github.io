@@ -10,11 +10,8 @@ baseurl: /
 
 # site social media and other links
 links:
-  email: jason.stajich@ucr.edu
-  google-scholar: Jason Stajich
-  github: stajichlab
+  github: 1kfg
   twitter: fungalgenomes
-  instagram: stajichlab
 
 # automatic citations
 auto-cite:
