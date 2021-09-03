@@ -8,7 +8,7 @@ role: pi
 group: current
 image: images/members/jason-stajich.jpg
 links:
-  website: http://lab.stajich.org/
+  home-page: http://lab.stajich.org/
   email: jason.stajich@ucr.edu
   github: stajichlab
   google: t_YIP5UAAAAJ

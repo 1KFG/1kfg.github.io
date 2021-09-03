@@ -5,6 +5,6 @@ search:
 role: pi
 group: current
 image: http://fds.duke.edu/photos/fac/u735.jpg
-website: https://sites.duke.edu/vilgalyslab/
+links:
+  home-page: https://sites.duke.edu/vilgalyslab/
 ---
-

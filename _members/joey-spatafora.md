@@ -5,6 +5,6 @@ search:
 role: pi
 group: current
 image: images/members/joey-spatafora.jpg
-website: https://joeyspataforalab.weebly.com/
+links:
+  home-page: https://joeyspataforalab.weebly.com/
 ---
-
