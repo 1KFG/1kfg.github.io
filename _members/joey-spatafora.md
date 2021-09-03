@@ -4,7 +4,7 @@ search:
   - J. Spatafora
 role: pi
 group: current
-image: images/Joey-headshot.jpg
+image: images/members/joey-spatafora.jpg
 website: https://joeyspataforalab.weebly.com/
 ---
 
