@@ -1,33 +1,32 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: pmid:33607033
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4f6a7310-bc2d-4083-823f-f131655ab9cf/fx1.jpg
   tags:
-    - knowledge graphs
+    - phylogeny
+- id: pmid:33547391
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7865070/bin/41598_2021_82607_Fig2_HTML.jpg
+  tags:
+    - phylogeny
+    - olpidium
+    - metagenome
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: pmid:32900807
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7482067/bin/mBio.02027-20-f0003.jpg
+  tags:
+    - mycovirus
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
-    - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
-    - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+- id: pmid:30639767
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6886740/bin/nihms-1060063-f0001.jpg
+  tags:
+    - Zoopagomycota
+    - phylogeny
+
+- id: pmid:30485448
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/524a802a-57d1-4e90-8bcd-201384172d4e/nph15613-fig-0001-m.jpg
+  tags:
+    - Endogone
+    - metagenome
+
+- id: pmid:28917057
+  image: https://journals.asm.org/cms/10.1128/microbiolspec.FUNK-0053-2016/asset/11cb3c3e-c2ec-4642-a78b-cab4ecf7bbec/assets/graphic/funk-0053-2016-fig1.gif
+  tags:
+    - phylogeny
