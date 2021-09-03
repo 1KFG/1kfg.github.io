@@ -30,3 +30,60 @@
   image: https://journals.asm.org/cms/10.1128/microbiolspec.FUNK-0053-2016/asset/11cb3c3e-c2ec-4642-a78b-cab4ecf7bbec/assets/graphic/funk-0053-2016-fig1.gif
   tags:
     - phylogeny
+
+- id: pmid:34472169
+  tags:
+    - Cenococcum
+
+- id: pmid:33538380
+  tags:
+    - wood decay
+    - rot
+- id: pmid:33118170
+  tags:
+    - desert truffle
+
+- id: pmid:33046698
+  tags:
+    - mycorrhizal
+    - ECM
+- id: pmid:31621176
+  tags:
+    - AMF
+    - Gigaspora
+    - genome
+
+- id: pmid:31337355
+  tags:
+    - lichen
+    - genome
+    - Cladonia
+
+- id: pmid:30886374
+  tags: 
+    - mushroom
+    - genome
+
+- id: pmid:30636349
+  tags:
+    - AMF
+    - genome
+    - comparative genomics
+
+- id: pmid:30420746
+  tags:
+    - truffle
+    - Pezizomycetes
+    - genome
+
+- id: pmid:29355972
+  tags:
+    - AMF
+    - Rhizophagus
+
+- id: pmid:29315638
+  tags: 
+    - mycorrhizal
+    - ericoid 
+
+
