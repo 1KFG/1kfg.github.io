@@ -1,63 +1,599 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.17504/protocols.io.bhx8j7rw
+  title: Fungal CTAB DNA Extraction v1
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - Derreck Carter-House
+  - Jason E Stajich
+  - Sarah Unruh
+  - Tania Kurbessoian
+  publisher: ZappyLab, Inc.
+  date: '2020-10-26'
+  link: https://doi.org/gmpf6v
+  image: images/genomic_DNA_gel.jpg
   tags:
-  - knowledge graphs
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+  - DNA extraction
+  - genome
+- id: pmid:33607033
+  title: A genome-scale phylogeny of the kingdom Fungi.
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - Yuanning Li
+  - Jacob L Steenwyk
+  - Ying Chang
+  - Yan Wang
+  - Timothy Y James
+  - Jason E Stajich
+  - Joseph W Spatafora
+  - Marizeth Groenewald
+  - Casey W Dunn
+  - Chris Todd Hittinger
+  - Xing-Xing Shen
+  - Antonis Rokas
+  publisher: 'Current biology : CB'
+  date: '2021-02-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33607033
+  image: https://els-jbs-prod-cdn.jbs.elsevierhealth.com/cms/attachment/4f6a7310-bc2d-4083-823f-f131655ab9cf/fx1.jpg
+  tags:
+  - phylogeny
+- id: pmid:33547391
+  title: Genome-scale phylogenetic analyses confirm Olpidium as the closest living
+    zoosporic fungus to the non-flagellated, terrestrial fungi.
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
-  - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
-  - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
+  - Ying Chang
+  - D'Ann Rochon
+  - Satoshi Sekimoto
+  - Yan Wang
+  - Mansi Chovatia
+  - Laura Sandor
+  - Asaf Salamov
+  - Igor V Grigoriev
+  - Jason E Stajich
+  - Joseph W Spatafora
+  publisher: Scientific reports
+  date: '2021-02-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33547391
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7865070/bin/41598_2021_82607_Fig2_HTML.jpg
+  tags:
+  - phylogeny
+  - olpidium
+  - metagenome
+- id: pmid:32900807
+  title: Survey of Early-Diverging Lineages of Fungi Reveals Abundant and Diverse
+    Mycoviruses.
+  authors:
+  - J M Myers
+  - A E Bonds
+  - R A Clemons
+  - N A Thapa
+  - D R Simmons
+  - D Carter-House
+  - J Ortanez
+  - P Liu
+  - "A Miralles-Dur\xE1n"
+  - "A Desir\xF2"
+  - J E Longcore
+  - G Bonito
+  - J E Stajich
+  - J W Spatafora
+  - Y Chang
+  - L M Corrochano
+  - A Gryganskyi
+  - I V Grigoriev
+  - T Y James
+  publisher: mBio
+  date: '2020-09-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32900807
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7482067/bin/mBio.02027-20-f0003.jpg
+  tags:
+  - mycovirus
+- id: pmid:30639767
+  title: Genome-scale phylogenetics reveals a monophyletic Zoopagales (Zoopagomycota,
+    Fungi).
+  authors:
+  - William J Davis
+  - Kevin R Amses
+  - Gerald L Benny
+  - Derreck Carter-House
+  - Ying Chang
+  - Igor Grigoriev
+  - Matthew E Smith
+  - Joseph W Spatafora
+  - Jason E Stajich
+  - Timothy Y James
+  publisher: Molecular phylogenetics and evolution
+  date: '2019-01-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30639767
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/6886740/bin/nihms-1060063-f0001.jpg
+  tags:
+  - Zoopagomycota
+  - phylogeny
+- id: pmid:30485448
+  title: Phylogenomics of Endogonaceae and evolution of mycorrhizas within Mucoromycota.
+  authors:
+  - Ying Chang
+  - "Alessandro Desir\xF2"
+  - Hyunsoo Na
+  - Laura Sandor
+  - Anna Lipzen
+  - Alicia Clum
+  - Kerrie Barry
+  - Igor V Grigoriev
+  - Francis M Martin
+  - Jason E Stajich
+  - Matthew E Smith
+  - Gregory Bonito
+  - Joseph W Spatafora
+  publisher: The New phytologist
+  date: '2019-01-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30485448
+  image: https://nph.onlinelibrary.wiley.com/cms/asset/524a802a-57d1-4e90-8bcd-201384172d4e/nph15613-fig-0001-m.jpg
+  tags:
+  - Endogone
+  - metagenome
+- id: pmid:28917057
+  title: 'The Fungal Tree of Life: from Molecular Systematics to Genome-Scale Phylogenies.'
+  authors:
+  - Joseph W Spatafora
+  - M Catherine Aime
+  - Igor V Grigoriev
+  - Francis Martin
+  - Jason E Stajich
+  - Meredith Blackwell
+  publisher: Microbiology spectrum
+  date: '2017-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28917057
+  image: https://journals.asm.org/cms/10.1128/microbiolspec.FUNK-0053-2016/asset/11cb3c3e-c2ec-4642-a78b-cab4ecf7bbec/assets/graphic/funk-0053-2016-fig1.gif
+  tags:
+  - phylogeny
+- id: pmid:34472169
+  title: Cryptic genetic structure and copy-number variation in the ubiquitous forest
+    symbiotic fungus Cenococcum geophilum.
+  authors:
+  - Benjamin Dauphin
+  - "Ma\xEDra de Freitas Pereira"
+  - Annegret Kohler
+  - Igor V Grigoriev
+  - Kerrie Barry
+  - Hyunsoo Na
+  - Mojgan Amirebrahimi
+  - Anna Lipzen
+  - Francis Martin
+  - Martina Peter
+  - Daniel Croll
+  publisher: Environmental microbiology
+  date: '2021-09-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34472169
+  tags:
+  - Cenococcum
+- id: pmid:33538380
+  title: Gene family expansions and transcriptome signatures uncover fungal adaptations
+    to wood decay.
+  authors:
+  - Hayat Hage
+  - Shingo Miyauchi
+  - "M\xE1t\xE9 Vir\xE1gh"
+  - Elodie Drula
+  - Byoungnam Min
+  - Delphine Chaduli
+  - David Navarro
+  - Anne Favel
+  - Manon Norest
+  - Laurence Lesage-Meessen
+  - "Bal\xE1zs B\xE1lint"
+  - "Zsolt Mer\xE9nyi"
+  - Laura de Eugenio
+  - Emmanuelle Morin
+  - "Angel T Mart\xEDnez"
+  - Petr Baldrian
+  - "Martina \u0160tursov\xE1"
+  - "Mar\xEDa Jes\xFAs Mart\xEDnez"
+  - Cenek Novotny
+  - Jon K Magnuson
+  - Joey W Spatafora
+  - Sundy Maurice
+  - Jasmyn Pangilinan
+  - Willian Andreopoulos
+  - Kurt LaButti
+  - Hope Hundley
+  - Hyunsoo Na
+  - Alan Kuo
+  - Kerrie Barry
+  - Anna Lipzen
+  - Bernard Henrissat
+  - Robert Riley
+  - Steven Ahrendt
+  - "L\xE1szl\xF3 G Nagy"
+  - Igor V Grigoriev
+  - Francis Martin
+  - "Marie-No\xEBlle Rosso"
+  publisher: Environmental microbiology
+  date: '2021-02-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33538380
+  tags:
+  - wood decay
+  - rot
+- id: pmid:33118170
+  title: Desert truffle genomes reveal their reproductive modes and new insights into
+    plant-fungal interaction and ectendomycorrhizal lifestyle.
+  authors:
+  - "Jos\xE9 Eduardo Marqu\xE9s-G\xE1lvez"
+  - Shingo Miyauchi
+  - Francesco Paolocci
+  - "Alfonso Navarro-R\xF3denas"
+  - Francisco Arenas
+  - "Manuela P\xE9rez-Gilabert"
+  - Emmanuelle Morin
+  - Lucas Auer
+  - Kerrie W Barry
+  - Alan Kuo
+  - Igor V Grigoriev
+  - Francis M Martin
+  - Annegret Kohler
+  - "Asunci\xF3n Morte"
+  publisher: The New phytologist
+  date: '2020-12-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33118170
+  tags:
+  - desert truffle
+- id: pmid:33046698
+  title: Large-scale genome sequencing of mycorrhizal fungi provides insights into
+    the early evolution of symbiotic traits.
+  authors:
+  - Shingo Miyauchi
+  - "Enik\u0151 Kiss"
+  - Alan Kuo
+  - Elodie Drula
+  - Annegret Kohler
+  - "Marisol S\xE1nchez-Garc\xEDa"
+  - Emmanuelle Morin
+  - Bill Andreopoulos
+  - Kerrie W Barry
+  - Gregory Bonito
+  - "Marc Bu\xE9e"
+  - Akiko Carver
+  - Cindy Chen
+  - Nicolas Cichocki
+  - Alicia Clum
+  - David Culley
+  - Pedro W Crous
+  - Laure Fauchery
+  - Mariangela Girlanda
+  - Richard D Hayes
+  - "Zs\xF3fia K\xE9ri"
+  - Kurt LaButti
+  - Anna Lipzen
+  - Vincent Lombard
+  - Jon Magnuson
+  - "Fran\xE7ois Maillard"
+  - Claude Murat
+  - Matt Nolan
+  - Robin A Ohm
+  - Jasmyn Pangilinan
+  - "Ma\xEDra de Freitas Pereira"
+  - Silvia Perotto
+  - Martina Peter
+  - Stephanie Pfister
+  - Robert Riley
+  - Yaron Sitrit
+  - J Benjamin Stielow
+  - "Gergely Sz\xF6ll\u0151si"
+  - "Lucia \u017Dif\u010D\xE1kov\xE1"
+  - "Martina \u0160tursov\xE1"
+  - Joseph W Spatafora
+  - Leho Tedersoo
+  - Lu-Min Vaario
+  - Akiyoshi Yamada
+  - Mi Yan
+  - Pengfei Wang
+  - Jianping Xu
+  - Tom Bruns
+  - Petr Baldrian
+  - Rytas Vilgalys
+  - Christophe Dunand
+  - Bernard Henrissat
+  - Igor V Grigoriev
+  - David Hibbett
+  - "L\xE1szl\xF3 G Nagy"
+  - Francis M Martin
+  publisher: Nature communications
+  date: '2020-10-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33046698
+  tags:
+  - mycorrhizal
+  - ECM
+- id: pmid:31621176
+  title: 'At the nexus of three kingdoms: the genome of the mycorrhizal fungus Gigaspora
+    margarita provides insights into plant, endobacterial and fungal interactions.'
+  authors:
+  - Francesco Venice
+  - Stefano Ghignone
+  - Alessandra Salvioli di Fossalunga
+  - "Jo\xEBlle Amselem"
+  - Mara Novero
+  - Xie Xianan
+  - "Kinga S\u0119dzielewska Toro"
+  - Emmanuelle Morin
+  - Anna Lipzen
+  - Igor V Grigoriev
+  - Bernard Henrissat
+  - Francis M Martin
+  - Paola Bonfante
+  publisher: Environmental microbiology
+  date: '2019-10-31'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31621176
+  tags:
+  - AMF
+  - Gigaspora
+  - genome
+- id: pmid:31337355
+  title: The lichen symbiosis re-viewed through the genomes of Cladonia grayi and
+    its algal partner Asterochloris glomerata.
+  authors:
+  - Daniele Armaleo
+  - "Olaf M\xFCller"
+  - "Fran\xE7ois Lutzoni"
+  - "\xD3lafur S Andr\xE9sson"
+  - Guillaume Blanc
+  - Helge B Bode
+  - Frank R Collart
+  - Francesco Dal Grande
+  - Fred Dietrich
+  - Igor V Grigoriev
+  - Suzanne Joneson
+  - Alan Kuo
+  - Peter E Larsen
+  - John M Logsdon
+  - David Lopez
+  - Francis Martin
+  - Susan P May
+  - Tami R McDonald
+  - Sabeeha S Merchant
+  - Vivian Miao
+  - Emmanuelle Morin
+  - Ryoko Oono
+  - Matteo Pellegrini
+  - Nimrod Rubinstein
+  - Maria Virginia Sanchez-Puerta
+  - Elizabeth Savelkoul
+  - Imke Schmitt
+  - Jason C Slot
+  - Darren Soanes
+  - "P\xE9ter Sz\xF6v\xE9nyi"
+  - Nicholas J Talbot
+  - Claire Veneault-Fourrey
+  - Basil B Xavier
+  publisher: BMC genomics
+  date: '2019-07-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31337355
+  tags:
+  - lichen
+  - genome
+  - Cladonia
+- id: pmid:30886374
+  title: Megaphylogeny resolves global patterns of mushroom evolution.
+  authors:
+  - Torda Varga
+  - "Krisztina Krizs\xE1n"
+  - "Csenge F\xF6ldi"
+  - "B\xE1lint Dima"
+  - "Marisol S\xE1nchez-Garc\xEDa"
+  - "Santiago S\xE1nchez-Ram\xEDrez"
+  - "Gergely J Sz\xF6ll\u0151si"
+  - "J\xE1nos G Szark\xE1ndi"
+  - Viktor Papp
+  - "L\xE1szl\xF3 Albert"
+  - William Andreopoulos
+  - Claudio Angelini
+  - "Vladim\xEDr Anton\xEDn"
+  - Kerrie W Barry
+  - Neale L Bougher
+  - Peter Buchanan
+  - Bart Buyck
+  - "Vikt\xF3ria Bense"
+  - Pam Catcheside
+  - Mansi Chovatia
+  - Jerry Cooper
+  - "Wolfgang D\xE4mon"
+  - Dennis Desjardin
+  - "P\xE9ter Finy"
+  - "J\xF3zsef Geml"
+  - Sajeet Haridas
+  - Karen Hughes
+  - Alfredo Justo
+  - "Dariusz Karasi\u0144ski"
+  - Ivona Kautmanova
+  - Brigitta Kiss
+  - "S\xE1ndor Kocsub\xE9"
+  - Heikki Kotiranta
+  - Kurt M LaButti
+  - Bernardo E Lechner
+  - Kare Liimatainen
+  - Anna Lipzen
+  - "Zolt\xE1n Luk\xE1cs"
+  - Sirma Mihaltcheva
+  - Louis N Morgado
+  - Tuula Niskanen
+  - Machiel E Noordeloos
+  - Robin A Ohm
+  - Beatriz Ortiz-Santana
+  - Clark Ovrebo
+  - "Nikolett R\xE1cz"
+  - Robert Riley
+  - Anton Savchenko
+  - Anton Shiryaev
+  - Karl Soop
+  - Viacheslav Spirin
+  - Csilla Szebenyi
+  - "Michal Tom\u0161ovsk\xFD"
+  - Rodham E Tulloss
+  - Jessie Uehling
+  - Igor V Grigoriev
+  - "Csaba V\xE1gv\xF6lgyi"
+  - "Tam\xE1s Papp"
+  - Francis M Martin
+  - Otto Miettinen
+  - David S Hibbett
+  - "L\xE1szl\xF3 G Nagy"
+  publisher: Nature ecology & evolution
+  date: '2019-03-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30886374
+  tags:
+  - mushroom
+  - genome
+- id: pmid:30636349
+  title: "Comparative genomics of Rhizophagus irregularis, R.\_cerebriforme, R.\_\
+    diaphanus and Gigaspora rosea highlights specific genetic features in Glomeromycotina."
+  authors:
+  - Emmanuelle Morin
+  - Shingo Miyauchi
+  - "H\xE9l\xE8ne San Clemente"
+  - Eric C H Chen
+  - Adrian Pelin
+  - Ivan de la Providencia
+  - Steve Ndikumana
+  - Denis Beaudet
+  - Mathieu Hainaut
+  - Elodie Drula
+  - Alan Kuo
+  - Nianwu Tang
+  - "S\xE9bastien Roy"
+  - Julie Viala
+  - Bernard Henrissat
+  - Igor V Grigoriev
+  - Nicolas Corradi
+  - Christophe Roux
+  - Francis M Martin
+  publisher: The New phytologist
+  date: '2019-02-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30636349
+  tags:
+  - AMF
+  - genome
+  - comparative genomics
+- id: pmid:30420746
+  title: Pezizomycetes genomes reveal the molecular basis of ectomycorrhizal truffle
+    lifestyle.
+  authors:
+  - Claude Murat
+  - Thibaut Payen
+  - Benjamin Noel
+  - Alan Kuo
+  - Emmanuelle Morin
+  - Juan Chen
+  - Annegret Kohler
+  - "Krisztina Krizs\xE1n"
+  - Raffaella Balestrini
+  - Corinne Da Silva
+  - Barbara Montanini
+  - Mathieu Hainaut
+  - Elisabetta Levati
+  - Kerrie W Barry
+  - Beatrice Belfiori
+  - Nicolas Cichocki
+  - Alicia Clum
+  - Rhyan B Dockter
+  - Laure Fauchery
+  - Julie Guy
+  - Mirco Iotti
+  - "Fran\xE7ois Le Tacon"
+  - Erika A Lindquist
+  - Anna Lipzen
+  - Fabienne Malagnac
+  - Antonietta Mello
+  - Virginie Molinier
+  - Shingo Miyauchi
+  - Julie Poulain
+  - Claudia Riccioni
+  - Andrea Rubini
+  - Yaron Sitrit
+  - Richard Splivallo
+  - Stefanie Traeger
+  - Mei Wang
+  - "Lucia \u017Dif\u010D\xE1kov\xE1"
+  - Daniel Wipf
+  - Alessandra Zambonelli
+  - Francesco Paolocci
+  - Minou Nowrousian
+  - Simone Ottonello
+  - Petr Baldrian
+  - Joseph W Spatafora
+  - Bernard Henrissat
+  - Laszlo G Nagy
+  - Jean-Marc Aury
+  - Patrick Wincker
+  - Igor V Grigoriev
+  - Paola Bonfante
+  - Francis M Martin
+  publisher: Nature ecology & evolution
+  date: '2018-11-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30420746
+  tags:
+  - truffle
+  - Pezizomycetes
+  - genome
+- id: pmid:29355972
+  title: High intraspecific genome diversity in the model arbuscular mycorrhizal symbiont
+    Rhizophagus irregularis.
+  authors:
+  - Eric C H Chen
+  - Emmanuelle Morin
+  - Denis Beaudet
+  - Jessica Noel
+  - Gokalp Yildirir
+  - Steve Ndikumana
+  - Philippe Charron
+  - Camille St-Onge
+  - John Giorgi
+  - "Manuela Kr\xFCger"
+  - Timea Marton
+  - Jeanne Ropars
+  - Igor V Grigoriev
+  - Matthieu Hainaut
+  - Bernard Henrissat
+  - Christophe Roux
+  - Francis Martin
+  - Nicolas Corradi
+  publisher: The New phytologist
+  date: '2018-01-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29355972
+  tags:
+  - AMF
+  - Rhizophagus
+- id: pmid:29315638
+  title: Comparative genomics and transcriptomics depict ericoid mycorrhizal fungi
+    as versatile saprotrophs and plant mutualists.
+  authors:
+  - Elena Martino
+  - Emmanuelle Morin
+  - "Gwen-A\xEBlle Grelet"
+  - Alan Kuo
+  - Annegret Kohler
+  - Stefania Daghino
+  - Kerrie W Barry
+  - Nicolas Cichocki
+  - Alicia Clum
+  - Rhyan B Dockter
+  - Matthieu Hainaut
+  - Rita C Kuo
+  - Kurt LaButti
+  - "Bj\xF6rn D Lindahl"
+  - Erika A Lindquist
+  - Anna Lipzen
+  - Hassine-Radhouane Khouja
+  - Jon Magnuson
+  - Claude Murat
+  - Robin A Ohm
+  - Steven W Singer
+  - Joseph W Spatafora
+  - Mei Wang
+  - Claire Veneault-Fourrey
+  - Bernard Henrissat
+  - Igor V Grigoriev
+  - Francis M Martin
+  - Silvia Perotto
+  publisher: The New phytologist
+  date: '2018-01-07'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/29315638
+  tags:
+  - mycorrhizal
+  - ericoid
