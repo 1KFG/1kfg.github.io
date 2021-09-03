@@ -12,7 +12,7 @@ This project is in collaboration with the work of the JGI and you can find links
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banners/amanita_6.jpg" %}
+{% include banner.html image="images/banners/amanita_1.jpg" %}
 
 {% include section.html %}
 
