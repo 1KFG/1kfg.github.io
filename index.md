@@ -4,9 +4,10 @@ title: Home
 
 # 1000 Fungal Genomes
 
-This page supports the efforts to sequence 1000+ fungal genomes.
+The 1000+ fungal genomes project is an effort to sample the genomic diversity of the fungal kingdom focusing on phylogenetic diversity.  
 
-This project is in collaboration with the work of the JGI and you can find links on this site to the nomination page for submitting candidate species to the project.
+One phase of the project supported by a [Community Sequencing Project](https://mycocosm.jgi.doe.gov/mycocosm/home/1000-fungal-genomes) at the Joint Genome Institute.
+See the currently sampled strains across the kingdom and you can also [nominate more species](https://mycocosm.jgi.doe.gov/pages/fungi-1000-projects.jsf) particularly in Families with less than 2 genomes. It is also possible to nominate more than 2 for a Family should there be a suitable justification that contribute to the DOE mission.
 
 {:.center}
 

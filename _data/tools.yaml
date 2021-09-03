@@ -10,8 +10,15 @@
   link: https://genome.jgi.doe.gov/portal/
   description: JGI Genome Portal
 
+- name: Melanin removal Protocol
+  group: featured
+  image: images/dryice.jpg
+  link: https://www.protocols.io/view/removal-of-melanin-bj6zkrf6
+  description: Protocols.io of melanin removal
+
 - name: KBase
   group: more
   image: images/k-base_logo.svg
   link: https://kbase.us
   description: KBase
+
