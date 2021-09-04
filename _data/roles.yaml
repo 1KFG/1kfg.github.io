@@ -2,6 +2,10 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
+collaborator:
+  icon: fas fa-glasses
+  text: Collaborator
+
 postdoc:
   icon: fas fa-glasses
   text: Postdoctoral Researcher
@@ -14,10 +18,7 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
+staff:
   icon: fas fa-code
-  text: Programmer
+  text: Staff
 
-mascot:
-  icon: fas fa-dog
-  text: Mascot
