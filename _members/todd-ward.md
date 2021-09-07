@@ -2,7 +2,7 @@
 title: Todd Ward
 search:
   - T. Ward
-role: pi
+role: collaborator
 group: collaborator
 image: images/members/todd-ward.jpg
 links:
