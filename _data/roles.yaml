@@ -3,7 +3,7 @@ pi:
   text: Principal Investigator
 
 collaborator:
-  icon: fas fa-glasses
+  icon: fas fa-flag
   text: Collaborator
 
 postdoc:
@@ -20,5 +20,4 @@ undergrad:
 
 staff:
   icon: fas fa-code
-  text: Staff
-
+  text: Staff Scientist
