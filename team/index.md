@@ -31,3 +31,20 @@ The project was proposed by the following Primary Investigators, but we hope to 
 
 {% include section.html %}
 
+## Funding
+
+Our work is made possible by funding from several organizations.
+{:.center}
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/nsf.png"
+  link1="https://nsf.gov/"
+  tooltip1="National Science Foundation"
+
+  image2="images/jgi_logo.svg"
+  link2="https://jgi.doe.gov/"
+  tooltip2="DOE Joint Genome Institute"
+%}
