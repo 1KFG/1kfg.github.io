@@ -1,8 +1,8 @@
 ---
-title: Blog
+title: Documents
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Documents and Resources
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
