@@ -23,9 +23,16 @@ The project was proposed by the following Primary Investigators, but we hope to 
   component="portrait"
   filters="role: phd"
 %}
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: collaborator"
+%}
 {:.center}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html background="images/banners/fungus_7.jpg" dark=true%}
 
 {:.center}
 

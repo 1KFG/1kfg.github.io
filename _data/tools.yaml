@@ -24,7 +24,6 @@
 
 - name: KBase
   group: more
-  image: images/k-base_logo.svg
+  image: images/kbase_square.svg
   link: https://kbase.us
   description: KBase
-
