@@ -11,44 +11,22 @@ The project was proposed by the following Primary Investigators, but we hope to 
 
 {% include section.html %}
 
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
-%}
+{% include list.html data="members" component="portrait" filters="role: pi, group: current " %}
+{% include list.html data="members" component="portrait" filters="role: collaborator, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: current: " %}
+{% include list.html data="members" component="portrait" filters="role: staff, group: current: " %}
 
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: collaborator"
-%}
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: staff"
-%}
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: postdoc"
-%}
-
-{%
-  include list.html
-  data="members"
-  component="portrait"
-  filters="role: phd"
-%}
 {:.center}
 
 {% include section.html background="images/banners/fungus_7.jpg" dark=true%}
+
+
+{% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filters="role: staff, group: alum" style="small" %}
+
 
 {:.center}
 
