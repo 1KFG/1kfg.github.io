@@ -50,6 +50,7 @@
     - desert truffle
 
 - id: pmid:33046698
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7550596/bin/41467_2020_18795_Fig4_HTML.jpg
   tags:
     - mycorrhizal
     - ECM
