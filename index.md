@@ -1,7 +1,6 @@
 ---
 title: Home
-redirect_from:
-  - /home
+redirect_from: /home
 ---
 
 # 1000 Fungal Genomes
